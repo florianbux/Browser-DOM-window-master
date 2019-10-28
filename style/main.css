@@ -35,3 +35,10 @@ input[type="submit"] {
     font-weight: bold;
     font-size: 20px;
 }
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
